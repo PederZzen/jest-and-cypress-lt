@@ -1,0 +1,1 @@
+[![Automated Unit Testing](https://github.com/PederZzen/jest-and-cypress-lt/actions/workflows/unit-test.yml/badge.svg)](https://github.com/PederZzen/jest-and-cypress-lt/actions/workflows/unit-test.yml)
