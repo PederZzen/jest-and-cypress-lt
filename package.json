@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "npm run test-e2e",
+    "test-e2e": "cypress open"  
   },
   "keywords": [],
   "author": "",
